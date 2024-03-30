@@ -73,6 +73,9 @@ button:hover{
 .equal{
     background-color: rgb(229, 152, 8);
 }
+.equal:hover{
+    background-color: orange;
+}
 .btnop{
     color: #6dee0a;
 }
